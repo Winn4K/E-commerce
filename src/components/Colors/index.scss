@@ -1,0 +1,56 @@
+@use "../../sass/variables" as *;
+
+.containerColors {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.colors {
+    margin-top: 10px;
+    width: 64px;
+    height: 60px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    cursor: pointer;
+
+    &__Azul {
+        background-color: blue;
+    }
+
+    &__Vermelho {
+        background-color: red;
+    }
+
+    &__Verde {
+        background-color: green;
+    }
+
+    &__Branco {
+        background-color: white;
+    }
+
+    &__Preto {
+        background-color: black;
+    }
+
+    &__Cinza {
+        background-color: gray;
+    }
+
+    &__Amarelo {
+        background-color: yellow;
+    }
+
+    &__Marron {
+        background-color: brown;
+    }
+
+    &__Rosa {
+        background-color: pink;
+    }
+
+    &__Bege {
+        background-color: beige;
+    }
+}

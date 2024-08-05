@@ -1,0 +1,71 @@
+@use "../../sass/variables" as *;
+
+.login {
+    padding: 0px;
+    margin: 0px;
+    
+
+    h2 {
+        text-align: center;
+        margin-top: 140px !important;
+        font-size: 30px !important;
+        font-weight: 500 !important;
+    }
+
+    h5 {
+        text-align: center;
+        font-size: 22px !important;
+        font-weight: 500 !important;
+    }
+
+    form {
+        margin-top: 100px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        button {
+            background-color: $button-primary-color;
+            padding: 18px 35px 18px 36px;
+            border-radius: 8px;
+            border: 0;
+            width: 520px;
+            color: white;
+            font-size: 18px;
+            font-weight: 800;
+        }
+
+        .Link {
+            color: white !important;
+            font-size: 18px;
+            font-weight: 800;
+        }
+    }
+
+    .campos {
+        display: flex !important;
+        flex-direction: column;
+        margin: 0;
+        padding: 0;
+        gap: 0;
+        
+
+        label {
+            font-size: 20px !important;
+            font-weight: 400;
+            text-align: left !important;
+        }
+
+        input {
+            width: 520px !important;
+            height: 55px !important;
+            border-radius: 10px !important;
+            border: solid 2px #7A7A7A;
+            margin-bottom: 30px;
+            padding: 11px 13px 11px 13px !important;
+            font-size: 14px;
+            font-weight: 400;
+        }
+
+    }
+}
