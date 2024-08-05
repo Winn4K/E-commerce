@@ -1,11 +1,19 @@
-# React + Vite
+# Mini E-Commerce
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+projeto de criação de um mini E-commerce com React.js + Vite e sass, para aprendizado próprio
 
-Currently, two official plugins are available:
+## Demonstração
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Login
+![image](https://github.com/user-attachments/assets/9ef8d26f-261e-405a-ba28-256d72751ce6)
 
+### Home
+![image](https://github.com/user-attachments/assets/be80ceb0-7873-4b2b-aa4d-c0d3aa69570f)
+
+### Product
+![image](https://github.com/user-attachments/assets/28583245-4e0a-42fa-9892-733e0eea7561)
+
+### Payment
+![image](https://github.com/user-attachments/assets/a0747f64-f6a0-427e-982b-ed837a4c5e97)
 
 Dê uma olhada como ficou: https://mini-project-ecommerce.netlify.app/
