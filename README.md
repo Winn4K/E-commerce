@@ -4,6 +4,8 @@ projeto de criação de um mini E-commerce com React.js + Vite e sass, para apre
 
 ## Demonstração
 
+Dê uma olhada como ficou: https://mini-project-ecommerce.netlify.app/
+
 ### Login
 ![image](https://github.com/user-attachments/assets/9ef8d26f-261e-405a-ba28-256d72751ce6)
 
@@ -16,4 +18,4 @@ projeto de criação de um mini E-commerce com React.js + Vite e sass, para apre
 ### Payment
 ![image](https://github.com/user-attachments/assets/a0747f64-f6a0-427e-982b-ed837a4c5e97)
 
-Dê uma olhada como ficou: https://mini-project-ecommerce.netlify.app/
+
